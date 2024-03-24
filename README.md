@@ -2,7 +2,7 @@
 
 # Mapty
 
-Mapty is a VanillaJS application that integrates geolocation functionality to allow users to track and visualize their running and cycling workouts on an interactive map.
+Mapty is a VanillaJS application that integrates geolocation functionality to allow users to track and visualize their workouts on an interactive map.
 
 https://mapty-ianmontesclaros.netlify.app/
 
