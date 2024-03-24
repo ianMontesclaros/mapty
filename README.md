@@ -8,7 +8,7 @@ https://mapty-ianmontesclaros.netlify.app/
 
 # Features
 
-1. Workout Tracking: Users can input details of their workouts, such as the type of activity (running or cycling), distance, duration, and any additional notes.
+1. Workout Tracking: Users can input details of their workouts, such as the type of activity (running or cycling), distance, duration, and elevation.
 
 2. Geolocation: The application utilizes the browser's geolocation API to track the user's current location during a workout. This enables accurate mapping of workout routes.
 
