@@ -22,9 +22,9 @@ https://mapty-ianmontesclaros.netlify.app/
 
 7. Responsive Design: The application is designed to be responsive, ensuring a consistent user experience across different devices and screen sizes.
 
-# Architecture and Technologies
+# Built with
 
-· Object Oriented Programming
-· Geolocation
-· Local Storage
-· Leaflet Library
+* Object Oriented Programming
+* Geolocation
+* Local Storage
+* Leaflet Library
