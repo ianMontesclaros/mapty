@@ -27,3 +27,4 @@ https://mapty-ianmontesclaros.netlify.app/
 · Object Oriented Programming
 · Geolocation
 · Local Storage
+· Leaflet Library
