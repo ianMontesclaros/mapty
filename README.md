@@ -21,3 +21,9 @@ https://mapty-ianmontesclaros.netlify.app/
 6. Data Storage: Workouts are stored locally in the browser's storage, allowing users to access their workout history even after closing and reopening the application.
 
 7. Responsive Design: The application is designed to be responsive, ensuring a consistent user experience across different devices and screen sizes.
+
+# Architecture and Technologies
+
+· Object Oriented Programming
+· Geolocation
+· Local Storage
